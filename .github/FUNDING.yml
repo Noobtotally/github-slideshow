@@ -1,0 +1,12 @@
+# These are supported funding model platforms
+
+github: user1 user2 user2 user2 
+patreon: patreon1
+open_collective: open collective1
+ko_fi: ko_fi1
+tidelift: npm/babel
+community_bridge: cloud-foundry
+liberapay: Liberapay1
+issuehunt: IssueHunt1
+otechie: Otechie1
+custom: 'link1', 'link2' 'link3' 'link4'
